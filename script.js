@@ -23,15 +23,19 @@
 
 //alert(nome_completo)
 
-var hora = 15;
+//var hora = 15;
 
-if(hora < 12) {
-    console.log('Bom dia!')
-}else if( hora <18){
-    console.log('Boa tarde!')
-}else if(hora <=23 && hora > 18)
+//if(hora < 12) {
+//    console.log('Bom dia!')
+//}else if( hora <18){
+//    console.log('Boa tarde!')
+//}else if(hora <=23 && hora > 18)
 
-if ( hora == 12 || hora == 18){
-    console.log ('Estamos na hora errada na rua')
-}
+//if ( hora == 12 || hora == 18){
+//    console.log ('Estamos na hora errada na rua')
+//}
+
+var nome = 'Guilherme'; //acesso global
+let nome = 'Guilherme'; //só é dispononivel dentro do escopo
+const nome = 'Guilherme'; //Variavel de valor constante
 

@@ -1,4 +1,13 @@
-#exemplo{
+.preto{
+    background-color: black;
+}
+
+.verde{
+    background-color: #00ff00;
+}
+
+
+/* #exemplo{
     width: 200px;
     height: 200px;
     margin: 20px;
@@ -19,4 +28,4 @@
     background-color: #0000FF;
     font-size: 30px;
     color: #fff;
-}
+} */

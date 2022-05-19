@@ -1,4 +1,9 @@
-.preto{
+.imagem{
+    height: 400px;
+}
+
+
+/*.preto{
     background-color: black;
 }
 
@@ -7,7 +12,7 @@
 }
 
 
-/* #exemplo{
+ #exemplo{
     width: 200px;
     height: 200px;
     margin: 20px;

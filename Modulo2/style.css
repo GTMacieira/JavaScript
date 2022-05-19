@@ -1,9 +1,19 @@
-.imagem{
-    height: 400px;
+.texto{
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+    background-color: #ccc;
+    padding: 20px;
+    border:2px solid #f00;
+    
 }
 
 
-/*.preto{
+/*..imagem{
+    height: 400px;
+}
+
+preto{
     background-color: black;
 }
 
